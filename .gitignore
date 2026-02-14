@@ -1,11 +1,13 @@
 venv/
 __pycache__/
 runs/
+dataset/
 dataset_macro/
 train/
 valid/
 test/
+labelImg/
 *.pt
 *.csv
+*.cache
 *.log
-labelImg/
