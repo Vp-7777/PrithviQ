@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+runs/
+dataset_macro/
+train/
+valid/
+test/
+*.pt
+*.csv
+*.log
+labelImg/

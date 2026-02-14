@@ -1,0 +1,57 @@
+==============================
+LAKE WASTE ANALYSIS REPORT
+==============================
+
+1. BASIC INFORMATION
+---------------------
+Location (GPS): __________
+Date & Time: __________
+Image ID: __________
+Capture Type: (Drone / Mobile)
+
+2. WASTE DETECTION SUMMARY
+---------------------------
+Total Detected Large Objects: ___
+
+Breakdown by Type:
+- Plastic Bottles: ___
+- Plastic Bags/Film: ___
+- Fishing Nets: ___
+- Metal Objects: ___
+- Foam/Styrofoam: ___
+- Other: ___
+
+3. WASTE COVERAGE ESTIMATION
+------------------------------
+Total Estimated Waste Coverage: ___ %
+
+Density Category:
+[ ] Low (0–10%)
+[ ] Moderate (10–30%)
+[ ] High (30–60%)
+[ ] Severe (60%+)
+
+4. RECYCLABLE ESTIMATION (Phase 2)
+------------------------------------
+Estimated Recyclable Composition:
+- Plastic: ___ %
+- Metal: ___ %
+- Others: ___ %
+
+Estimated Recoverable Mass (kg): ___ (Future Module)
+
+5. CLEANUP RECOMMENDATION
+---------------------------
+Suggested Cleanup Method:
+- Manual Collection
+- Surface Net Skimming
+- Mechanical Extraction
+- Urgent Intervention Required
+
+Priority Level:
+Low / Medium / High / Critical
+
+6. MODEL CONFIDENCE
+---------------------
+Detection Confidence: ___
+Coverage Estimation Confidence: ___

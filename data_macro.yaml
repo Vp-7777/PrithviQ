@@ -1,0 +1,12 @@
+path: dataset_macro
+train: train/images
+val: valid/images
+
+nc: 5
+
+names:
+  - Plastic
+  - Metal
+  - Glass
+  - Organic
+  - Hazardous

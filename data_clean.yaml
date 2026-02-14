@@ -1,0 +1,22 @@
+path: .
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 14
+
+names:
+  - Plastic_Bottle
+  - Plastic_Film_Bag
+  - Plastic_Container_Rigid
+  - Metal_Can
+  - Metal_Scrap
+  - Glass
+  - Paper_Cardboard
+  - Organic_Biodegradable
+  - Fishing_Net_Marine_Debris
+  - Rubber_Tire
+  - E_Waste
+  - Mixed_Trash
+  - Hazardous_Waste
+  - Unknown
